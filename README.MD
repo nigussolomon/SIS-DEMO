@@ -13,10 +13,10 @@
   username: nigussolomon
   password: ns1234
 
-  Registrar Office
+> Registrar Office
   username: registrar
   password: protectd123456
 
-  Finance Office
+> Finance Office
   username: finance
   password: protectd123456
